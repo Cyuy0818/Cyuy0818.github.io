@@ -1,11 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>OpenGl的配置问题</title>
-    <url>//post/oop.html</url>
-    <content><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
+    <title>大学物理3光学部分的笔记整理</title>
+    <url>//post/PhysicNote.html</url>
+    <content><![CDATA[<h1 id="大学物理3光学部分"><a href="#大学物理3光学部分" class="headerlink" title="大学物理3光学部分"></a>大学物理3光学部分</h1><p>你可能会想为什么单给光这部分开md文档呢？🤔<br>1.怎么说呢，光学这块在后面学习感兴趣的OpenGl，渲染管线，图形学方面还是很有帮助的。<br>2.作为在上网课期间寄吧没听懂的我的自我救赎<br>3.感谢b站大学给我重新做人的机会😭😭😭</p>
+<ul>
+<li>个人看的网课链接：<br><a href="https://www.bilibili.com/video/BV1qW411H7UX/?p=53&spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=312220e9b7dea5e6870052e15deb7ecc">大学物理（冬季学期jrr老师放在学习通的也是这版）</a></li>
+</ul>
+<h2 id="第一部分"><a href="#第一部分" class="headerlink" title="第一部分"></a>第一部分</h2><p>光源（简单介绍，了解即可）</p>
+<ul>
+<li><p>1.可见光是电磁波  </p>
+<pre><code>波的强度和振幅的平方成正比，光的强度也和e矢量——振幅的平方成正比：i(光强)∝E0²  
+</code></pre>
+</li>
+<li><p>2.普通光源的发光机理与特点  </p>
+<pre><code>发光机理：自发辐射  
+V=(E2-E1)/h  
+原子发出的是一段频率一定、振动方向一定、有限长的波列  
+
+发光特点：随机性、间歇的、彼此独立的  
+光源中各原子所发光波列彼此之间没有频率、相位间的关联  
+*对于任何光源,谱线宽度δλ不可能为0  
+</code></pre>
+<p>  <img src="/post/PhysicNote/%E5%85%89%E8%B0%B1%E5%9B%BE.jpg"><br>  *对于任何光源,谱线宽度δλ不可能为0  </p>
+</li>
+<li><p>3.激光光源：受激辐射的光放大    </p>
+<pre><code>特点：频率，相位，振动方向完全相同的光  
+     相干性好，单色性好，发散角小
+</code></pre>
+</li>
+</ul>
+<p>光的相干性  </p>
+<ul>
+<li><p>1.两列光波相遇时发生干涉的必要条件：  </p>
+<pre><code>振动方向相同+评率相同+相位差恒定  
+此外还要满足 空间相干性 和 时间相干性
+
+机械波容易观察到干涉和衍射——波长长
+</code></pre>
+</li>
+<li><p>2.普通光源获得相干光的方法</p>
+<pre><code>分波面法——（杨氏双缝）
+分振幅法——（薄膜干涉等）
+</code></pre>
+</li>
+<li><p>3.惠更斯-菲涅尔原理  </p>
+<pre><code> 光波阵面上每一点都可以看做新的子波源，这些子波是相干波
+</code></pre>
+<p>  <img src="/post/PhysicNote/%E8%A1%8D%E5%B0%84%E5%9B%BE.png"></p>
+</li>
+</ul>
+]]></content>
       <tags>
-        <tag>问题解决，OpenGl学习</tag>
+        <tag>物理，学习笔记</tag>
       </tags>
   </entry>
 </search>
