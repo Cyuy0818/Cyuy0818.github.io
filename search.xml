@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>这是Cyy的第一篇Blog</title>
-    <url>//post/title.html</url>
-    <content><![CDATA[]]></content>
+    <title>OpenGl的配置问题</title>
+    <url>//post/oop.html</url>
+    <content><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
       <tags>
-        <tag>闲</tag>
-        <tag>接触一点新东西</tag>
+        <tag>问题解决，OpenGl学习</tag>
       </tags>
   </entry>
 </search>
