@@ -3,11 +3,11 @@
   <entry>
     <title>大学物理3光学部分的笔记整理</title>
     <url>//post/PhysicNote.html</url>
-    <content><![CDATA[<h1 id="大学物理3光学部分"><a href="#大学物理3光学部分" class="headerlink" title="大学物理3光学部分"></a>大学物理3光学部分</h1><p>你可能会想为什么单给光学这部分开md文档呢？🤔<br>1.对于我来说，光学这块在后面学习感兴趣的图形学方面还是很有帮助的。<br>2.作为在上网课期间寄吧没听懂的我的自我救赎<br>3.感谢b站大学给我重新做人的机会😭😭😭</p>
+    <content><![CDATA[<p>你可能会想为什么单给光学这部分开md文档呢？🤔<br>1.对于我来说，光学这块在后面学习感兴趣的图形学方面还是很有帮助的。<br>2.作为在上网课期间寄吧没听懂的我的自我救赎<br>3.感谢b站大学给我重新做人的机会😭😭😭</p>
 <ul>
 <li>个人看的网课链接：<br><a href="https://www.bilibili.com/video/BV1qW411H7UX/?p=53&spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=312220e9b7dea5e6870052e15deb7ecc">大学物理（冬季学期jrr老师放在学习通的也是这版）</a></li>
 </ul>
-<h2 id="第一部分"><a href="#第一部分" class="headerlink" title="第一部分"></a>第一部分</h2><h2 id="光源（简单介绍，了解即可）"><a href="#光源（简单介绍，了解即可）" class="headerlink" title="光源（简单介绍，了解即可）"></a>光源（简单介绍，了解即可）</h2><ul>
+<h1 id="第一部分"><a href="#第一部分" class="headerlink" title="第一部分"></a>第一部分</h1><h2 id="光源（简单介绍，了解即可）"><a href="#光源（简单介绍，了解即可）" class="headerlink" title="光源（简单介绍，了解即可）"></a>光源（简单介绍，了解即可）</h2><ul>
 <li><p>1.可见光是电磁波  </p>
 <pre><code>波的强度和振幅的平方成正比，光的强度也和e矢量——振幅的平方成正比：i(光强)∝e0²  
 </code></pre>
@@ -64,7 +64,7 @@ d-传播距离//n-煤质折射率
 </code></pre>
 </li>
 </ul>
-<h2 id="第二部分"><a href="#第二部分" class="headerlink" title="第二部分"></a>第二部分</h2><h2 id="杨氏双缝"><a href="#杨氏双缝" class="headerlink" title="杨氏双缝"></a>杨氏双缝</h2>]]></content>
+<h1 id="第二部分"><a href="#第二部分" class="headerlink" title="第二部分"></a>第二部分</h1><h2 id="杨氏双缝"><a href="#杨氏双缝" class="headerlink" title="杨氏双缝"></a>杨氏双缝</h2>]]></content>
       <tags>
         <tag>物理，学习笔记</tag>
       </tags>
