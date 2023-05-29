@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>WebGPU配置（vscode）</title>
+    <url>//post/WebGPULearning.html</url>
+    <content><![CDATA[<h1 id="你需要准备的东西有"><a href="#你需要准备的东西有" class="headerlink" title="你需要准备的东西有:"></a>你需要准备的东西有:</h1><h2 id="vscode"><a href="#vscode" class="headerlink" title="vscode"></a>vscode</h2><p><a href="https://code.visualstudio.com/">官网下载-可能较慢建议挂梯子</a><br><a href="https://vscode.cdn.azure.cn/stable/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/VSCodeUserSetup-x64-1.65.2.exe">windows-64位镜像站</a><br><a href="https://vscode.cdn.azure.cn/stable/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/VSCodeUserSetup-ia32-1.65.2.exe">windows-32位镜像站</a><br><a href="https://vscode.cdn.azure.cn/stable/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/VSCode-darwin-universal.zip">mac版本</a></p>
+<ul>
+<li>下载完vscode后</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>OWebGPU,问题解决,vscode</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>大学物理3光学部分的笔记整理</title>
     <url>//post/PhysicNote.html</url>
     <content><![CDATA[<p>你可能会想为什么单给光学这部分开md文档呢？🤔<br>1.对于我来说，光学这块在后面学习感兴趣的图形学方面还是很有帮助的。<br>2.作为在上网课期间寄吧没听懂的我的自我救赎<br>3.感谢b站大学给我重新做人的机会😭😭😭</p>
@@ -68,18 +80,6 @@ d-传播距离//n-煤质折射率
       <tags>
         <tag>物理</tag>
         <tag>学习笔记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>WebGPU配置（vscode）</title>
-    <url>//post/OpenGlLearning.html</url>
-    <content><![CDATA[<h1 id="你需要准备的东西有"><a href="#你需要准备的东西有" class="headerlink" title="你需要准备的东西有:"></a>你需要准备的东西有:</h1><h2 id="vscode"><a href="#vscode" class="headerlink" title="vscode"></a>vscode</h2><p><a href="https://code.visualstudio.com/">官网下载-可能较慢建议挂梯子</a><br><a href="https://vscode.cdn.azure.cn/stable/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/VSCodeUserSetup-x64-1.65.2.exe">windows-64位镜像站</a><br><a href="https://vscode.cdn.azure.cn/stable/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/VSCodeUserSetup-ia32-1.65.2.exe">windows-32位镜像站</a><br><a href="https://vscode.cdn.azure.cn/stable/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/VSCode-darwin-universal.zip">mac版本</a></p>
-<ul>
-<li>下载完vscode后</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>OWebGPU,问题解决,vscode</tag>
       </tags>
   </entry>
 </search>
