@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>WebGPU配置（vscode）</title>
-    <url>//post/WebGPULearning.html</url>
-    <content><![CDATA[<h1 id="你需要准备的东西有"><a href="#你需要准备的东西有" class="headerlink" title="你需要准备的东西有:"></a>你需要准备的东西有:</h1><h2 id="vscode"><a href="#vscode" class="headerlink" title="vscode"></a>vscode</h2><p><a href="https://code.visualstudio.com/">官网下载-可能较慢建议挂梯子</a><br><a href="https://vscode.cdn.azure.cn/stable/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/VSCodeUserSetup-x64-1.65.2.exe">windows-64位镜像站</a><br><a href="https://vscode.cdn.azure.cn/stable/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/VSCodeUserSetup-ia32-1.65.2.exe">windows-32位镜像站</a><br><a href="https://vscode.cdn.azure.cn/stable/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/VSCode-darwin-universal.zip">mac版本</a></p>
-<ul>
-<li>下载完vscode后</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>OWebGPU,问题解决,vscode</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>大学物理3光学部分的笔记整理</title>
-    <url>//post/PhysicNote.html</url>
+    <url>/post/adf7180b.html</url>
     <content><![CDATA[<p>你可能会想为什么单给光学这部分开md文档呢？🤔<br>1.对于我来说，光学这块在后面学习感兴趣的图形学方面还是很有帮助的。<br>2.作为在上网课期间寄吧没听懂的我的自我救赎<br>3.感谢b站大学给我重新做人的机会😭😭😭</p>
 <ul>
 <li>个人看的网课链接：<br><a href="https://www.bilibili.com/video/BV1qW411H7UX/?p=53&spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=312220e9b7dea5e6870052e15deb7ecc">大学物理（冬季学期jrr老师放在学习通的也是这版）</a></li>
@@ -32,7 +20,7 @@ V=(E2-E1)/h
 发光特点：随机性、间歇的、彼此独立的  
 光源中各原子所发光波列彼此之间没有频率、相位间的关联   
 </code></pre>
-<p>  <img src="/post/PhysicNote/%E5%85%89%E8%B0%B1%E5%9B%BE.jpg"><br>  *对于任何光源,谱线宽度δλ不可能为0  </p>
+<p>  <img src="/post/undefined/%E5%85%89%E8%B0%B1%E5%9B%BE.jpg"><br>  *对于任何光源,谱线宽度δλ不可能为0  </p>
 </li>
 <li><p>3.激光光源：受激辐射的光放大    </p>
 <pre><code>特点：频率，相位，振动方向完全相同的光  
@@ -56,7 +44,7 @@ V=(E2-E1)/h
 <li><p>3.惠更斯-菲涅尔原理  </p>
 <pre><code>光波阵面上每一点都可以看做新的子波源，这些子波是相干波
 </code></pre>
-<p>  <img src="/post/PhysicNote/%E8%A1%8D%E5%B0%84%E5%9B%BE.png"></p>
+<p>  <img src="/post/undefined/%E8%A1%8D%E5%B0%84%E5%9B%BE.png"></p>
 </li>
 </ul>
 <h2 id="光程-光程差与相干光强"><a href="#光程-光程差与相干光强" class="headerlink" title="光程 光程差与相干光强"></a>光程 光程差与相干光强</h2><ul>
@@ -80,6 +68,18 @@ d-传播距离//n-煤质折射率
       <tags>
         <tag>物理</tag>
         <tag>学习笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>WebGPU配置（vscode）</title>
+    <url>/post/3e0c1cbc.html</url>
+    <content><![CDATA[<h1 id="你需要准备的东西有"><a href="#你需要准备的东西有" class="headerlink" title="你需要准备的东西有:"></a>你需要准备的东西有:</h1><h2 id="vscode"><a href="#vscode" class="headerlink" title="vscode"></a>vscode</h2><p><a href="https://code.visualstudio.com/">官网下载-可能较慢建议挂梯子</a><br><a href="https://vscode.cdn.azure.cn/stable/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/VSCodeUserSetup-x64-1.65.2.exe">windows-64位镜像站</a><br><a href="https://vscode.cdn.azure.cn/stable/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/VSCodeUserSetup-ia32-1.65.2.exe">windows-32位镜像站</a><br><a href="https://vscode.cdn.azure.cn/stable/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/VSCode-darwin-universal.zip">mac版本</a></p>
+<ul>
+<li>下载完vscode后</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>OWebGPU,问题解决,vscode</tag>
       </tags>
   </entry>
 </search>
